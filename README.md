@@ -1,7 +1,7 @@
 ```markdown
-# _50-JAVA-BASIC-PROBLEMS
+# 50-JAVA-BASIC-PROBLEMS
 
-Welcome to the _50-JAVA-BASIC-PROBLEMS repository! This collection of 50 basic Java programs is designed to help you understand and reinforce fundamental mathematical concepts through practical coding examples.
+Welcome to the 50-JAVA-BASIC-PROBLEMS repository! This collection of 50 basic Java programs is designed to help you understand and reinforce fundamental mathematical concepts through practical coding examples.
 
 ## Programs List
 
@@ -64,11 +64,11 @@ To run these programs, you need to have Java installed on your system. If you do
 
 1. Clone this repository to your local machine using:
     ```sh
-    git clone https://github.com/yourusername/_50-JAVA-BASIC-PROBLEMS.git
+    git clone https://github.com/yourusername/50-JAVA-BASIC-PROBLEMS.git
     ```
 2. Navigate to the directory containing the program you want to run:
     ```sh
-    cd _50-JAVA-BASIC-PROBLEMS
+    cd 50-JAVA-BASIC-PROBLEMS
     ```
 3. Compile the Java file using:
     ```sh
